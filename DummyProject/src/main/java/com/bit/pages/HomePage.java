@@ -59,8 +59,14 @@ public class HomePage {
 	}
 	
 	
+	public void gitPrac1() {
+		
+	}
 	
 	
+	public void M1() {
+		
+	}
 	
 	
 
